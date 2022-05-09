@@ -1,7 +1,15 @@
-# shotgun-king-mods
+# Shotgun King Mods
 ## Mods for Shotgun King: The Final Checkmate.
 Get the game here!
 https://punkcake.itch.io/shotgun-king
+### Installation
+#### If a mod has specific instructions, follow those instead.
+Go to your Shotgun King installation. Must be v1.2.4 or higher! Betas included.
+Delete the "mods" file and make a folder with the same name of "mods".
+Download the mod (zip variant) and move to the mods folder.
+Extract the contents into a new folder. (Not the mods folder, or it won't register.)
+Boot up the game.
+Go into settings and click the "mods" option.
 ### True King
 #### Makes King mode alot harder, for true experts!
 ---Modes---
