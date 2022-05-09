@@ -62,3 +62,17 @@ King: Knight Speed -1 (Can't have them move every turn)
 ---Cards---
 
 Remove Theocracy.
+
+### Spirit of a Knight
+
+#### Makes all pieces go really fast. Like, really fast.
+
+---Pieces---
+
+All pieces move every turn.
+
+---Cards---
+
+All speed increases and decreases removed.
+
+Any card with solely speed increases or decreases, or it's other feature nerfing it's holder, have been removed.
