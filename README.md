@@ -1,3 +1,7 @@
+# This is likely out of date!
+## For the latest mod releases, check out my itch.io profile.
+CheckIntoAMate.itch.io
+
 # Shotgun King Mods
 ## Mods for Shotgun King: The Final Checkmate.
 
