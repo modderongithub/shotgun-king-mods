@@ -9,55 +9,55 @@ https://punkcake.itch.io/shotgun-king
 
 #### If a mod has specific instructions, follow those instead.
 
-Go to your Shotgun King installation. Must be v1.2.4 or higher! Betas included.
+Go to your Shotgun King installation.
 
-Delete the "mods" file and make a folder with the same name of "mods".
+If the "mods" file exists, delete the "mods" file and make a folder with the same name of "mods". If there is a folder, skip this step. If there is none, make sure you're using the latest version!
 
 Download the mod (zip variant) and move to the mods folder.
 
-Extract the contents into a new folder. (Not the mods folder, or it won't register.)
+Extract the contents into a new folder. named the same as the ZIP file.
 
 Boot up the game.
 
 Go into settings and click the "mods" option.
 
+If the mods option isn't there, update your game!
+
 ### True King
 
-#### Makes King mode alot harder, for true experts!
+#### For true experts!
 
 ---Modes---
 
-Move King move to top of list.
+Add True King mode.
 
-Remove Easy mode.
+Modifiers:
 
-King: Boss HP 200% > 300%
+300% Boss HP
 
-King: Pawns 6 > 8
++4 Pawns
 
-King: Pawn HP 3 > 4
++1 Pawn HP
 
-King: Knights 2 > 3
++1 Knight
 
-King: Knight HP 3 > 5
++2 Knight HP
 
-King: Bishops 2 > 3
++1 Bishop
 
-King: Bishop HP 4 > 6
++2 Bishop HP
 
-King: Rooks 1 > 2
++1 Rook
 
-King: Rook HP 5 > 7
++2 Rook HP
 
-King: Queen HP 5 > 8
++3 Queen HP
 
-King: King HP 8 > 12
++4 King HP
 
-King: Boss HP 200% > 300%
++1 Speed (All pieces)
 
-King: All Speed +1
-
-King: Knight Speed -1 (Can't have them move every turn)
+-1 Knight Speed (Can't let it move every turn) 
 
 ---Cards---
 
