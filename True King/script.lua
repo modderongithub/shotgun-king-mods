@@ -82,10 +82,12 @@ EXCLUDE={
 
 DIFFICULTY={
 	
-	{ n=1, id="King", 				gain={0,0,0,0,1,1,2,2,3}, chamber_max=-1, soul_sink=1, boss_hprc=300, pawn_hp=1, knight_hp=2, bishop_hp=2, rook_hp=2, queen_hp=3, king_hp=4, all_tempo=-1, knight_tempo=1},
-	{ n=2, id="Normal", 			nothing=1 },
-	{ n=3, id="Hard", 				chamber_max=-1 },
-	{ n=4, id="Very Hard", 		gain={1,0}, chamber_max=-1, soul_sink=1 },
+	{ n=1, id="trueking", 				gain={0,0,0,0,1,1,2,2,3}, chamber_max=-1, soul_sink=1, boss_hprc=300, pawn_hp=1, knight_hp=2, bishop_hp=2, rook_hp=2, queen_hp=3, king_hp=4, all_tempo=-1, knight_tempo=1},
+	{	n=2, id="Easy", 				sac={3,0}, ammo_max=3,  },
+	{ n=3, id="Normal", 			nothing=1 },
+	{ n=4, id="Hard", 				chamber_max=-1 },
+	{ n=5, id="Very Hard", 		gain={1,0}, chamber_max=-1, soul_sink=1 },
+	{ n=6, id="King", 				gain={2,1,0,0}, chamber_max=-1, soul_sink=1, boss_hprc=200 },
 }
 
 FIRST_ARMY={
